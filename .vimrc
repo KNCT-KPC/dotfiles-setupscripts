@@ -131,4 +131,4 @@ let g:rsenseHome = '/usr/local/lib/rsense-0.3'
 let g:rsenseUseOmniFunc = 1
 
 "emmet
-let g:user_emmet_settings = { 'lang' : 'ja'}
+let g:user_emmet_settings = {'variables': {'lang' : 'ja'}}
