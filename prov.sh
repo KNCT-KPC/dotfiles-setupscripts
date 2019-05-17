@@ -13,6 +13,7 @@ if [ $do = "yes" ] || [ $do = "y" ] || [ $do = "YES" ] || [ $do = "Y" ] || [ $do
 		read -p "Do you want to install joke softwares? [yes/no]: " joke
 		read -p "student number :" num
 		read -sp "pass :" pass
+		echo ""
 		export https_proxy="http://${num}:${pass}@157.114.16.93:8080"
 		export http_proxy="http://${num}:${pass}@157.114.16.93:8080"
 
