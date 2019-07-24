@@ -10,6 +10,8 @@ dotfile(ファイル名が.~な設定ファイル)や便利系スクリプトを
 vimの設定ファイル
 - pip-install.sh  
 プロキシ環境下でローカルにpipをインストール  
+- pip-i.sh  
+プロキシ環境下でpip install  
 - prov.sh  
 ubuntuのプロビジョニング(ソフトウェアをインストール)スクリプト  
 - start.sh
